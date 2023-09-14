@@ -1,7 +1,7 @@
 # AI-Voice-Bot
 
 
-VoiceAIAssistant is a Python-based, voice-controlled artificial intelligence assistant that can perform a variety of tasks and engage in natural language conversations. It is designed to make your daily activities more convenient and interactive.
+AI-Voice-Bot is a Python-based, voice-controlled artificial intelligence assistant that can perform a variety of tasks and engage in natural language conversations. It is designed to make your daily activities more convenient and interactive.
 
 ## Features
 
@@ -16,8 +16,8 @@ VoiceAIAssistant is a Python-based, voice-controlled artificial intelligence ass
 
 ### Prerequisites
 
-- Python 3.x
-- Required Python packages (install using `pip`): `pyttsx3`, `speech_recognition`, `openai`, `requests`)
+- Python 3.10
+- Required Python packages (install using `pip`): `pyttsx3`, `speech_recognition`, `openAI`, `requests`)
 
 - ### Installation
 
@@ -29,7 +29,7 @@ Install the required Python packages:
 
 bash
 Copy code
-pip install pyttsx3 speech_recognition openai requests
+pip install pyttsx3 speech_recognition openAi requests
 Configure the necessary API keys (OpenAI and News API) in the config.py file.
 
 Run the script:
